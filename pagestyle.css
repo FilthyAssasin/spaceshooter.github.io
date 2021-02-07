@@ -1,0 +1,27 @@
+.beginText{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    visibility: visible;
+}
+body{
+    background-color: black;
+    background-size: cover;
+}
+#spaceShipDiv{
+    transition: all ease 0.5s;
+    height: 100px;
+    width: 100px;
+}
+#ship{
+    position: relative;
+    transition: all ease 0.50s;
+}
+#bulletDiv{
+    transition: all ease 0.5s;
+    height: 100px;
+    width: 100px;
+}
+#bullet{
+    position: relative;
+    transition: all ease 0.50s;
+}
